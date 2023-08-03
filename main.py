@@ -2,7 +2,6 @@ import hmac
 import base64
 import datetime
 import requests
-import loguru
 from setings import *
 import telebot
 
